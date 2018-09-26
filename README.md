@@ -6,4 +6,4 @@ all’utente è richiesto esclusivamente di inserire il PIN che ha ricevuto al m
 
 Per gli sviluppatori è possibile avere accesso al codice sorgente del middleware o alle ultime versioni beta, collegandosi alla [pagina di riferimento](https://developers.italia.it/it/cie/) sul sito “[Developers Italia](https://developers.italia.it/)”.
 
-La documentazione in formato [Read the Docs](https://readthedocs.org), compilata a partire da questo repo, può essere trovata al seguente indirizzo:  <mark><http://cie3.0-middleware.readthedocs.io></mark>.
+La documentazione in formato [Read the Docs](https://readthedocs.org), compilata a partire da questo repo, può essere trovata al seguente indirizzo:  <mark><http://cie30-middleware.readthedocs.io></mark>.
