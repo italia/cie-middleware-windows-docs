@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "CIE 3.0: Manuale d'uso del middleware CIE"
+settings_project_name = "CIE 3.0, Manuale utente del Middleware CIE"
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
