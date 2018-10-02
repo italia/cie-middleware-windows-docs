@@ -1,6 +1,6 @@
 document:
   name: CIE 3.0 - Manuale d'uso del middleware CIE
-  short_name: cie3.0-middleware
+  short_name: cie30-middleware
   description: |
     Questo manuale per l’utente illustra le principali funzionalità messe a
     disposizione dall'applicativo Middleware CIE.
