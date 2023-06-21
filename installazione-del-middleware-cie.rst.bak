@@ -35,8 +35,8 @@ gruppo di programmi chiamato "CIE Software":
 |image0|
 
 .. |image0| image:: _img/image1.png
-   :width: 8.05412in
-   :height: 3.32292in
+   :width: 8.9999in
+   :height: 1.32292in
 .. |image1| image:: _img/image2.png
    :width: 5.19792in
    :height: 4.26042in

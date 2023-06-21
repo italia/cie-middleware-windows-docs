@@ -32,7 +32,6 @@ gruppo di programmi chiamato "CIE Software":
 
 |image47|
 
-|image0|
 
 .. |image0| image:: _img/image1.png
    :width: 8.9999in
