@@ -65,7 +65,9 @@ Cliccare su “Accetta” per proseguire con l’installazione.
 |image52|
 
 Il software deve necessariamente essere installato sull’hard disk principale, non è possibile scegliere un disco secondario/esterno. Cliccare quindi su “Continua” per proseguire.
+
 Cliccare su “Installa” per completare il processo di installazione. A questo punto verrà richiesta la password di un utente amministratore. Inserire la password e premere su “Installa Software”.
+
 Attendere il completamento dell’installazione, al termine della quale verrà mostrata la finestra di installazione riuscita.
 
 |image53|
