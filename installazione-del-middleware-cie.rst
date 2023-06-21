@@ -11,10 +11,10 @@ Portale CIE,
 sezione "Servizi", sotto sezione "middleware cie" oppure dal sito
 `developers.italia.it <https://developers.italia.it/>`__, sezione "CIE".
 
-Effettuare un doppio click sul file "MiddlewareCIE_<VERSIONE>.msi"
+Effettuare un doppio click sul file "MiddlewareCIE_<VERSIONE>.exe"
 scaricato. Comparirà la seguente schermata:
 
-|image0|
+|image44|
 
 Cliccare sul tasto Avanti nelle successive schermate, confermando
 l'installazione.
