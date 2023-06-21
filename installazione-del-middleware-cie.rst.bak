@@ -11,33 +11,26 @@ Portale CIE,
 sezione "Servizi", sotto sezione "middleware cie" oppure dal sito
 `developers.italia.it <https://developers.italia.it/>`__, sezione "CIE".
 
-Effettuare un doppio click sul file "MiddlewareCIE_<VERSIONE>.exe"
-scaricato. Comparirà la seguente schermata:
+Effettuare un doppio click sul file “CIE-Software-<VERSIONE>.exe” scaricato. 
+Nel caso sia abilitato il Controllo Account Utente (UAC) di Microsoft, verrà visualizzata 
+la seguente schermata. È necessario cliccare su “SI”:
 
 |image44|
 
-Cliccare sul tasto Avanti nelle successive schermate, confermando
-l'installazione.
+Comparirà la seguente schermata:
 
-|image1|
+|image45|
 
-Nel caso sia abilitato il Controllo Account Utente (UAC) di Microsoft,
-verrà visualizzata la seguente schermata. È necessario cliccare su "Sì":
+Cliccare sul tasto Accetto e attendere il completamento dell’installazione
 
-|image2|
+|image46|
 
-Attendere il completamento dell'installazione:
-
-|image3|
-
-Cliccare su Chiudi per terminare l'installazione.
-
-|image4|
+Cliccare su Fine per terminare l’installazione.
 
 In seguito all'installazione sarà presente nel menu avvio un nuovo
 gruppo di programmi chiamato "CIE Middleware":
 
-|image5|
+|image47|
 
 .. |image0| image:: _img/image1.png
    :width: 4.05412in
@@ -58,5 +51,14 @@ gruppo di programmi chiamato "CIE Middleware":
    :width: 2.67708in
    :height: 1.57292in
 .. |image44| image:: _img/image44.png
+   :width: 2.67708in
+   :height: 1.57292in
+.. |image45| image:: _img/image45.png
+   :width: 2.67708in
+   :height: 1.57292in
+.. |image46| image:: _img/image46.png
+   :width: 2.67708in
+   :height: 1.57292in
+.. |image47| image:: _img/image47.png
    :width: 2.67708in
    :height: 1.57292in
