@@ -57,3 +57,6 @@ gruppo di programmi chiamato "CIE Middleware":
 .. |image5| image:: _img/image6.png
    :width: 2.67708in
    :height: 1.57292in
+.. |image44| image:: _img/image44.png
+   :width: 2.67708in
+   :height: 1.57292in
