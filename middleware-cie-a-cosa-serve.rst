@@ -1,18 +1,22 @@
-Middleware CIE: a cosa serve?
-=============================
+Software CIE – a cosa serve
+===========================
 
-Il Software CIE è un software necessario per utilizzare la Carta di
-Identità elettronica per l'accesso in rete ai servizi erogati dalle
-PP.AA.
+Il Software CIE consente di utilizzare la Carta di Identità elettronica
+per l’accesso sicuro in rete ai servizi web erogati dalle PP.AA.,
+attraverso un PC e un lettore a radio frequenze (RF). È una delle
+componenti dello schema schema di identificazione “Entra con CIE”, i cui
+dettagli sono riportati sul sito del Ministero dell’Interno
+all’indirizzo:
 
-L'esempio di utilizzo più frequente è l'accesso ad un servizio di una
-P.A. (ad esempio Agenzia delle Entrate) mediante il browser del computer
-(MS Edge, Google Chrome, Firefox, Opera ecc.) in modo sicuro per il tramite
-della CIE: il middleware CIE interagisce con il browser per realizzare,
-in maniera del tutto sicura e trasparente all'utente, la comunicazione
-fra il lettore di smart card e il microprocessore della CIE.
+https://www.cartaidentita.interno.gov.it/identificazione-digitale/entra-con-cie/
 
-All'utente è richiesto esclusivamente di inserire il PIN che ha ricevuto
-al momento della richiesta della CIE (1° parte) e della consegna di
-quest'ultima (2° parte) per sbloccare l'utilizzo della chiave e portare
-a termine il processo di autenticazione.
+L’esempio di utilizzo più frequente è l’accesso ad un servizio di una
+P.A. (ad esempio all’area riservata dell’Agenzia delle Entrate) mediante
+il browser del computer (Safari, Chrome, Firefox, ecc.) in modo sicuro:
+il Software CIE interagisce con il browser per realizzare, in maniera
+del tutto sicura e trasparente all’utente, la comunicazione fra il
+lettore e il microprocessore della CIE.
+
+All’utente è richiesto esclusivamente di inserire la seconda metà del
+PIN che ha ricevuto assieme alla busta contenente la CIE per completare
+il processo di autenticazione tra il browser e il servizio web.
