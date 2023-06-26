@@ -18,7 +18,7 @@ Figura 17. Abbinamento di una CIE
 Appoggiando la CIE sul lettore di smart card collegato alla postazione,
 digitando il PIN e selezionando il tasto “abbina” si avvia la procedura.
 
-|Risultati immagini per windows warning icon| **Attenzione! In fase di
+|WARNING| **Attenzione! In fase di
 abilitazione verranno richieste tutte le 8 cifre del PIN.
 Successivamente, durante il normale utilizzo sarà necessario inserire
 solo le ultime 4 cifre.**
@@ -42,6 +42,9 @@ Aggiungi Carta e ripetere la procedura descritta.
 .. |image17| image:: _img/image18.png
    :width: 4.93126in
    :height: 4.46596in
-.. |image18| image:: _img/image19.png
+.. |WARNING| image:: _img/image19.png
    :width: 0.36458in
    :height: 0.3125in
+.. |image18| image:: ./media/image20.png
+   :width: 4.12264in
+   :height: 4.18417in

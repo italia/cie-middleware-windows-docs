@@ -45,6 +45,6 @@ Aggiungi Carta e ripetere la procedura descritta.
 .. |WARNING| image:: _img/image19.png
    :width: 0.36458in
    :height: 0.3125in
-.. |image18| image:: ./media/image20.png
+.. |image18| image:: _img/image20.png
    :width: 4.12264in
    :height: 4.18417in
