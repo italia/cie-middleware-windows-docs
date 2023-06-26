@@ -38,7 +38,7 @@ generata automaticamente|
 
 Figura . Software CIE nel menu di Windows
 
-.. |image2| image:: ./_img/image2.png
+.. |image2| image:: ../_img/image2.png
    :width: 3.49429in
    :height: 2.728in
 .. |image3| image:: _img/image3.png
