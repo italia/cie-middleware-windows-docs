@@ -186,7 +186,8 @@ accompagnamento della CIE. 38 <#_Toc138328571>`__
 
 `Figura 48. I PIN immessi non corrispondono 40 <#_Toc138328574>`__
 
-`Figura 49. Il PIN è errato 40 <#_Toc138328575>`__
+`Figura 49. Il PIN è errato
+40 <file:///C:\Users\fva\Desktop\GIT-REP\CIE%203.0%20-%20Manuale%20d'uso%20del%20middleware%20CIE%201.4.3%20-%20Multi%20SO.docx#_Toc138328575>`__
 
 `Figura 50. Sblocco del PIN con il PUK 41 <#_Toc138328576>`__
 
