@@ -1,0 +1,50 @@
+Windows
+=======
+
+Per installare il Software CIE è necessario disporre di un account con
+privilegi di amministratore. Effettuare il download del Software dal
+Portale CIE, avendo cura di scegliere il pacchetto di installazione per
+Windows.
+
+Effettuare un doppio click sul file “CIE-Software-<VERSIONE>.exe”
+scaricato. Nel caso sia abilitato il Controllo Account Utente (UAC) di
+Microsoft, verrà visualizzata la seguente schermata. È necessario
+cliccare su “SI”:
+
+|image1|
+
+Figura . Installazione del Software CIE Win
+
+Comparirà la seguente schermata:
+
+|image2|
+
+Figura . Installazione del Software CIE Win
+
+Cliccare sul tasto Accetto e attendere il completamento
+dell’installazione
+
+|Immagine che contiene testo, elettronica, schermata, schermo
+Descrizione generata automaticamente|
+
+Figura . Conclusione installazione del Software CIE Win
+
+Cliccare su Fine per terminare l’installazione.
+
+In seguito all’installazione sarà presente nel menu avvio un nuovo
+gruppo di programmi chiamato “CIE Software”:
+
+|Immagine che contiene testo, schermata, Carattere, software Descrizione
+generata automaticamente|
+
+Figura . Software CIE nel menu di Windows
+
+.. |image2| image:: _img/image2.png
+   :width: 3.49429in
+   :height: 2.728in
+.. |image3| image:: _img/image3.png
+   :width: 4.14567in
+   :height: 3.22441in
+.. |image4| image:: _img/image4.png
+   :width: 4.16929in
+   :height: 3.24016in
