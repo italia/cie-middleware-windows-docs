@@ -11,39 +11,41 @@ scaricato. Nel caso sia abilitato il Controllo Account Utente (UAC) di
 Microsoft, verrà visualizzata la seguente schermata. È necessario
 cliccare su “SI”:
 
-|image2|
+|image1|
 
-Figura . Installazione del Software CIE Win
+Figura 1. Installazione del Software CIE Win
 
 Comparirà la seguente schermata:
 
-|image3|
+|image2|
 
-Figura . Installazione del Software CIE Win
+Figura 2. Installazione del Software CIE Win
 
 Cliccare sul tasto Accetto e attendere il completamento
 dell’installazione
 
-|image4|
+|image3|
 
-Figura . Conclusione installazione del Software CIE Win
+Figura 3. Conclusione installazione del Software CIE Win
 
 Cliccare su Fine per terminare l’installazione.
 
 In seguito all’installazione sarà presente nel menu avvio un nuovo
 gruppo di programmi chiamato “CIE Software”:
 
-|Immagine che contiene testo, schermata, Carattere, software Descrizione
-generata automaticamente|
+|image4|
 
-Figura . Software CIE nel menu di Windows
+Figura 4. Software CIE nel menu di Windows
 
-.. |image2| image:: ../_img/image2.png
+.. |image1| image:: ../_img/image2.png
    :width: 3.49429in
    :height: 2.728in
-.. |image3| image:: _img/image3.png
+.. |image2| image:: ../_img/image3.png
    :width: 4.14567in
    :height: 3.22441in
-.. |image4| image:: _img/image4.png
+.. |image3| image:: ../_img/image4.png
    :width: 4.16929in
    :height: 3.24016in
+.. |image4| image:: ../_img/image5.png
+   :width: 2.67708in
+   :height: 1.51313in
