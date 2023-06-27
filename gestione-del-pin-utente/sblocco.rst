@@ -41,12 +41,12 @@ Figura 79. PUK errato
 ATTENZIONE: In caso di blocco del PUK non sarà possibile procedere né al
 suo sblocco né a quello del PIN.
 
-.. |image78| image:: ./media/image76.png
+.. |image78| image:: ../_img/image76.png
    :width: 3.60667in
    :height: 2.88333in
-.. |image79| image:: ./media/image77.png
+.. |image79| image:: ../_img/image77.png
    :width: 3.38455in
    :height: 2.74861in
-.. |image80| image:: ./media/image78.png
+.. |image80| image:: ../_img/image78.png
    :width: 3.65956in
    :height: 2.91944in
