@@ -22,9 +22,9 @@ In questo caso il PIN completo è **12345678** e il PUK è **87654321**.
 In seguito all’abilitazione verranno sempre richieste **solo le ultime 4
 cifre del PIN**. Nel caso in esempio **5678.**
 
-.. |image72| image:: ./media/image70.png
+.. |image72| image:: ../_img/image70.png
    :width: 6.55972in
    :height: 2.93611in
-.. |image73| image:: ./media/image71.png
+.. |image73| image:: ../_img/image71.png
    :width: 4.92126in
    :height: 3.55787in
