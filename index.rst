@@ -212,6 +212,6 @@ accompagnamento della CIE. 38 <#_Toc138328571>`__
   funzioni-del-middleware-cie.rst
   primo-utilizzo-della-cie-con-il-middleware.rst
   accesso-ad-un-servizio-mediante-il-browser-e-la-cie.rst
-  funzione-FEA.rst
+  funzioni-FEA-verifica.rst
   gestione-del-pin-utente.rst
   impostazioni.rst
