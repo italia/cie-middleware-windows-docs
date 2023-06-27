@@ -2,55 +2,52 @@ Cambio
 ======
 
 Il PIN della CIE può essere modificato per intero (tutte e 8 le cifre)
-con un nuovo PIN che il titolare può ricordare più facilmente.
+con un nuovo PIN che il titolare può ricordare più facilmente. Per
+cambiare il PIN, appoggiare la CIE sul lettore di smart card, avviare
+CIE ID e accedere alla sezione “Cambio PIN”:
 
-Per cambiare il PIN appoggiare la CIE sul lettore di smart card e
-selezionare Cambio PIN dal menu avvio:
+|image74|
 
-|image0|
+Figura 73. Cambio del PIN
 
-Inserire le ultime 4 cifre del PIN attuale della CIE e confermare
-cliccando su OK.
+Inserire tutte e 8 le cifre del PIN attuale della CIE e digitare 2 volte
+le 8 cifre del nuovo PIN per evitare che, a causa di errori di
+digitazione, il PIN venga impostato ad un valore diverso da quello
+desiderato; infine confermare cliccando su “Cambia PIN”.
 
-|image1|
+|image75|
 
-Inserire quindi le ultime 4 cifre del nuovo PIN e confermare.
-Quest'ultimo deve essere digitato 2 volte per evitare che, a causa di
-errori di digitazione, il PIN venga impostato ad un valore diverso da
-quello desiderato:
-
-|image2|
+Figura 74. Cambio del PIN
 
 Nel caso in cui la seconda digitazione del PIN non corrisponda alla
-prima l'applicazione si blocca con un avviso all'utente. Se il PIN
+prima, l’applicazione si blocca con un avviso all’utente. Se il PIN
 iniziale è invece digitato correttamente per due volte, avviene il
 cambio e viene mostrata la finestra di conferma seguente.
 
-|image3|
+|image76|
+
+Figura 75. I PIN immessi non corrispondono
 
 Se il PIN iniziale non corrisponde a quello digitato verrà visualizzata
 una schermata di errore in cui è specificato il numero di tentativi
 rimanenti prima di bloccare il PIN.
 
-|image4|
+| |image77|
+| 76. Il PIN è errato
 
 In caso di blocco del PIN è necessario procedere allo sblocco tramite il
-PUK. Consultare il paragrafo "Sblocco_" per ulteriori dettagli in
+PUK. Consultare il paragrafo §9.3 Sblocco per ulteriori dettagli in
 merito alla procedura di sblocco PIN.
 
-.. _Sblocco: sblocco.html
-.. |image0| image:: ../_img/image33.png
-   :width: 2.42667in
-   :height: 1.4in
-.. |image1| image:: ../_img/image34.png
-   :width: 4.6915in
-   :height: 2.66019in
-.. |image2| image:: ../_img/image35.png
-   :width: 4.82524in
-   :height: 2.78543in
-.. |image3| image:: ../_img/image36.png
-   :width: 4.85417in
-   :height: 2.8125in
-.. |image4| image:: ../_img/image37.png
-   :width: 4.85417in
-   :height: 2.8125in
+.. |image74| image:: ../_img/image72.png
+   :width: 3.4375in
+   :height: 2.78958in
+.. |image75| image:: ../_img/image73.png
+   :width: 3.39931in
+   :height: 2.76736in
+.. |image76| image:: ../_img/image74.png
+   :width: 3.49167in
+   :height: 2.78452in
+.. |image77| image:: ../_img/image75.png
+   :width: 3.48056in
+   :height: 2.80208in
