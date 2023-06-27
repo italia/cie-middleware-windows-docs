@@ -1,5 +1,5 @@
 MS Edge, Chrome e Opera per Windows
-=============================================
+===================================
 
 L’autenticazione tramite CIE su Edge, su Chrome e su Opera non richiede
 alcuna operazione di configurazione aggiuntiva a quanto descritto nei
