@@ -12,7 +12,7 @@ configurazione aggiuntiva, come descritto nei paragrafi seguenti.
 
 .. toctree::
   :maxdepth: 3
-  :caption: Accesso con diversi SO
+  :caption: Elenco dei browser
 
   accesso-ad-un-servizio-mediante-il-browser-e-la-cie/accesso-ad-un-servizio-mediante-il-browser-e-la-cie-win.rst
   accesso-ad-un-servizio-mediante-il-browser-e-la-cie/accesso-ad-un-servizio-mediante-il-browser-e-la-cie-mac.rst
