@@ -12,7 +12,7 @@ scaricato il pacchetto di installazione:
 *sudo dpkg -i <NOME_FILE>.deb*
 
 Verrà richiesto di inserire la password di root. Inserita la password e
-premuto Invio, partirà la procedura di installazione che copierà i
+premuto "Invio", partirà la procedura di installazione che copierà i
 seguenti files:
 
 1. Cartella “CIEID” nel percorso /usr/share/

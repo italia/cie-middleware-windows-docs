@@ -1,8 +1,8 @@
 Linux
 =====
 
-La versione attuale del Software CIE può essere installata ed utilizzata
-su sistemi operativi Linux. Sono forniti pacchetti di installazione per
+La versione può essere installata ed utilizzata
+su tutti i sistemi operativi Linux. Sono forniti pacchetti di installazione per
 distribuzioni “Debian based” (pacchetto con estensione .pkg) e per
 distribuzioni “Red Hat based” (pacchetto con estensione .rpm).
 

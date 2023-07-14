@@ -2,11 +2,12 @@ Verifica di un file digitalmente firmato
 ========================================
 
 CIE ID consente di verificare un file digitalmente firmato con la CIE o
-con un qualunque altro dispositivo di calcolo di una firma digitale
+con un qualunque altro dispositivo di apposizione di  firma digitale
 qualificata, nei formati CADES o PADES.
 
 Utilizzare la funzione “Verifica firma” nel menu di sinistra per
-accedere alla funzionalità.
+accedere alla funzionalità. Tale funzionalità è utilizzabile anche
+senza avere alcuna CIE abbinata.
 
 Cliccare sul tasto “Seleziona” per proseguire con la seguente schermata.
 

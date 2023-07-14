@@ -1,18 +1,18 @@
 Cambio
 ======
 
-Il PIN della CIE può essere modificato per intero (tutte e 8 le cifre)
-con un nuovo PIN che il titolare può ricordare più facilmente. Per
-cambiare il PIN, appoggiare la CIE sul lettore di smart card, avviare
-CIE ID e accedere alla sezione “Cambio PIN”:
+Il PIN della CIE (tutte e 8 le cifre) può essere modificato inserendo un nuovo valore
+che il titolare può ricordare più facilmente. Per cambiare il PIN,
+appoggiare la CIE sul lettore di smart card, avviare CIE ID e accedere
+alla sezione “Cambio PIN” dal menu di sinistra:
 
 |image74|
 
-Figura 73. Cambio del PIN
+Figura 73. Accesso alla funzionalità di cambio del PIN
 
 Inserire tutte e 8 le cifre del PIN attuale della CIE e digitare 2 volte
 le 8 cifre del nuovo PIN per evitare che, a causa di errori di
-digitazione, il PIN venga impostato ad un valore diverso da quello
+digitazione, si imposti ad un valore diverso da quello
 desiderato; infine confermare cliccando su “Cambia PIN”.
 
 |image75|

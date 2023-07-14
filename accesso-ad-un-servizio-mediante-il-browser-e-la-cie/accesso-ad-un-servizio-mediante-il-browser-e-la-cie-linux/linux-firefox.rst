@@ -8,7 +8,7 @@ Avviare Firefox e accedere alla sezione “Preferenze” del browser:
 Figura 49. Preferenze Firefox
 
 Selezionare la scheda “Privacy e Sicurezza” o “Privacy & Security” nel
-caso di distribuzioni in inglese.
+caso di utilizzo di una versione di Firefox in inglese.
 
 |image50|
 
@@ -33,7 +33,7 @@ con l’elenco dei lettori di smart card installati sul computer:
 
 |image52|
 
-Figura 52. Dispositivi di sicurezza su Firefox
+Figura 52. Dispositivi di sicurezza su Firefox, caricamento del modulo CIE
 
 Per verificare la corretta installazione tornare alla scheda delle
 preferenze e, lasciando la CIE appoggiata sul lettore, cliccare su

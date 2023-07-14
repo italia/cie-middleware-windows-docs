@@ -1,4 +1,4 @@
-Altre distribuzioni 
+Altre distribuzioni
 ====================
 
 Nel caso di altre distribuzioni occorre scaricare il file

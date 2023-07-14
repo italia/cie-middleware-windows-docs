@@ -8,6 +8,9 @@ qualunque natura. La firma elettronica calcolata con la Carta D’Identità
 Elettronica è a tutti gli effetti una Firma Elettronica Avanzata,
 disciplinata all’interno del DPCM 22/02/2013, articolo 61.
 
+Si veda la  `pagina <https://www.cartaidentita.interno.gov.it/pa-e-imprese/firma-elettronica-cie-ciesign>`__ di riferimento sul Portale CIE per maggiori informazioni.
+
+
 .. toctree::
   :maxdepth: 2
   :caption: FEA e verifica

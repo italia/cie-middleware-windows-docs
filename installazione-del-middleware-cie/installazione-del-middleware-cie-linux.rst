@@ -2,9 +2,9 @@ Linux
 =====
 
 Per installare il Software CIE è necessario disporre di credenziali
-linux che possano copiare files all’interno delle cartelle poste sotto
-la cartella /usr/local. Effettuare il download del Software dal Portale
-CIE, avendo cura di scegliere il pacchetto di installazione per Linux
+linux che possano consentire la copia di files all’interno delle cartelle poste sotto
+l'alberatura /usr/local. Effettuare il download del Software CIE dal
+`Portale CIE <https://www.cartaidentita.interno.gov.it/pa-e-imprese/documentazione-middleware-cie/>`__, avendo cura di scegliere il pacchetto di installazione per Linux
 nella versione desiderata.
 
 Terminato il download del pacchetto la procedura di installazione si

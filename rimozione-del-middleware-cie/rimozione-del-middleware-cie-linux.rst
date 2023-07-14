@@ -1,7 +1,7 @@
 Linux
 =====
 
-Per rimuovere il software “CIE Software” è necessario rimuovere i
+Per rimuovere il software “CIE Software” è necessario eliminare i
 seguenti files e cartelle:
 
 1. Cartella “CIEID” nel percorso /usr/share/

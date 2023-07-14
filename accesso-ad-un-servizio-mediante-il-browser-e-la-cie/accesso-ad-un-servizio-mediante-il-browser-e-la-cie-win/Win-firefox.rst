@@ -52,7 +52,7 @@ verranno visualizzate delle informazioni.
 
 |image30|
 
-Figura 30. Configurazione di un dispositivo di sicurezza su Firefox
+Figura 30. Configurazione di un dispositivo di sicurezza su Firefox e modulo CIE configurato correttamente
 
 Per verificare la corretta installazione tornare alla scheda “Avanzate”,
 e, lasciando la CIE appoggiata sul lettore, cliccare su “Certificati”.
@@ -61,7 +61,7 @@ premere su OK.
 
 |image31|
 
-Figura 31. Accesso al dispositivo di sicurezza configurato su Firefox
+Figura 31. Accesso al dispositivo di sicurezza CIE configurato su Firefox
 
 Nella scheda “Certificati Personali” comparirà il certificato di
 autenticazione dell’utente, riconoscibile dal codice fiscale.
@@ -101,7 +101,7 @@ l’accesso al servizio desiderato.
 Attenzione: nel caso in cui venga inserito un PIN errato o il PIN sia
 bloccato, Firefox non restituisce alcun messaggio d’errore all’utente,
 ma ripropone la finestra di inserimento PIN. Verificare accuratamente il
-PIN inserito per evitare il blocco accidentale della CIE.
+PIN inserito per evitare il blocco di quest'ultimo.
 
 Consultare il paragrafo §9.3 Sblocco per ulteriori dettagli in merito
 alla procedura di sblocco PIN.

@@ -41,14 +41,14 @@ computer:
 
 |image43|
 
-Figura 43. Dispositivo di sicurezza CIE su Firefox
+Figura 43. Dispositivi di sicurezza CIE su Firefox e modulo CIE caricato correttamente.
 
 Appoggiando la CIE sul lettore questa verrà riconosciuta dal browser e
 verranno visualizzate delle informazioni.
 
 |image44|
 
-Figura 44. Accesso al dispositivo di sicurezza Firefox
+Figura 44. Accesso al dispositivo di sicurezza "CIE" su Firefox
 
 Per verificare la corretta installazione tornare alla scheda “Avanzate”,
 e, lasciando la CIE appoggiata sul lettore, cliccare su “Certificati”.

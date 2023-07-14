@@ -8,9 +8,10 @@ ID, per la libreria CIEPKI.dll o per entrambe.
 
 I files di log sono scritti nei seguenti percorsi:
 
--  Windows c:\%PROGRAMDATA%\CIEPKI.
+-  **Windows:**
+   c:\%PROGRAMDATA%\CIEPKI.
 
--  MacOs – Linux
+-  **MacOs & Linux:**
    ./Library/Containers/it.ipzs.CIE-ID.CIEIDToken/Data/.CIEPKI.
 
 |image82|

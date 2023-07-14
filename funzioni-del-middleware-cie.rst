@@ -6,7 +6,7 @@ offerte:
 
 |image16|
 
-Figura 16. Home page della funzionalità di firma elettronica
+Figura 16. Funzionalità dell'applicazione CieID
 
 Nel dettaglio:
 
@@ -34,7 +34,7 @@ Nel dettaglio:
 8. **Informazioni**: privacy policy del Software CIE
 
 9. **Impostazioni**: consente di impostare il proxy per la verifica
-   della firma e impostare il livello di log.
+   della firma e impostare il livello di log desiderato.
 
 .. |image16| image:: _img/image17.png
    :width: 1.14435in

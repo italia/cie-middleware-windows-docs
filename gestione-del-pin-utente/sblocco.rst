@@ -1,19 +1,19 @@
 Sblocco
 =======
 
-In caso di blocco del PIN questo deve essere sbloccato e reimpostato
-inserendo il PUK.
+In caso di blocco del PIN (tre tentativi errati di digitazione)
+questo deve essere sbloccato e reimpostato inserendo il PUK.
 
-Per sbloccare una carta appoggiare la CIE sul lettore di smart card,
-avviare CIE ID e accedere alla sezione “Sblocca Carta”; inserire il PUK
-della CIE, inserire il nuovo PIN e ripeterlo per conferma:
+Per sbloccare una carta con il PIN bloccato appoggiare la CIE sul lettore di smart card,
+avviare CIE ID e accedere alla funzionalità “Sblocca Carta” dal menu di sinistra;
+inserire il PUK della CIE, inserire il nuovo PIN e ripeterlo per conferma:
 
 |image78|
 
 Figura 77. Sblocco del PIN con il PUK
 
-Verranno chieste tutte le 8 cifre di un nuovo PIN. Inserire il nuovo PIN
-e premere OK. Il nuovo PIN deve essere digitato 2 volte per evitare che
+Verranno chieste tutte le 8 cifre di un nuovo PIN. Digitarle e
+e confermare. Il nuovo PIN deve essere digitato 2 volte per evitare che
 a causa di errori di digitazione esso venga impostato ad un valore
 diverso da quello desiderato.
 
@@ -38,8 +38,9 @@ rimanenti prima di bloccare il PUK.
 
 Figura 79. PUK errato
 
-ATTENZIONE: In caso di blocco del PUK non sarà possibile procedere né al
-suo sblocco né a quello del PIN.
+**ATTENZIONE: In caso di blocco del PUK dopo 10 tentativi errati di immissione 
+non sarà possibile procedere né al
+suo sblocco né a quello del PIN.**
 
 .. |image78| image:: ../_img/image76.png
    :width: 3.60667in

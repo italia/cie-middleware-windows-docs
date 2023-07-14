@@ -13,32 +13,32 @@ Comparirà la seguente schermata:
 
 |image5|
 
-Figura 5. Installazione del Software CIE MacOS
+Figura 5. Installazione del Software CIE su sistema MacOS
 
 Cliccare sul tasto “Continua”. Comparirà quindi la finestra di
 informazioni sul software della CIE che si sta installando.
 
 |image6|
 
-Figura 6. Installazione del Software CIE MacOS
+Figura 6. Installazione del Software CIE su sistema MacOS
 
 Cliccare sul tasto “Continua” per proseguire nella sezione “Licenza”.
 
 |image7|
 
-Figura 7. Installazione del Software CIE MacOS
+Figura 7. Installazione del Software CIE su sistema MacOS
 
 Leggere la licenza d’uso e Cliccare sul tasto “Continua”.
 
 |image8|
 
-Figura 8. Installazione del Software CIE MacOS
+Figura 8. Installazione del Software CIE su sistema MacOS
 
 Cliccare su “Accetta” per proseguire con l’installazione.
 
 |image9|
 
-Figura 9. Installazione del Software CIE MacOS
+Figura 9. Installazione del Software CIE su sistema MacOS
 
 Il software deve necessariamente essere installato sull’hard disk
 principale, non è possibile scegliere un disco secondario/esterno.

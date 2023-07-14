@@ -3,7 +3,8 @@ Windows
 
 Per installare il Software CIE è necessario disporre di un account con
 privilegi di amministratore. Effettuare il download del Software dal
-Portale CIE, avendo cura di scegliere il pacchetto di installazione per
+`Portale CIE <https://www.cartaidentita.interno.gov.it/pa-e-imprese/documentazione-middleware-cie/>`__, avendo cura di scegliere il pacchetto di installazione per Linux
+, avendo cura di scegliere il pacchetto di installazione per
 Windows.
 
 Effettuare un doppio click sul file “CIE-Software-<VERSIONE>.exe”
@@ -13,20 +14,20 @@ cliccare su “SI”:
 
 |image1|
 
-Figura 1. Installazione del Software CIE Win
+Figura 1. Installazione del Software CIE in ambiente Windows
 
 Comparirà la seguente schermata:
 
 |image2|
 
-Figura 2. Installazione del Software CIE Win
+Figura 2. Installazione del Software CIE in ambiente Windows
 
 Cliccare sul tasto Accetto e attendere il completamento
 dell’installazione
 
 |image3|
 
-Figura 3. Conclusione installazione del Software CIE Win
+Figura 3. Conclusione installazione del Software CIE in ambiente Windows
 
 Cliccare su Fine per terminare l’installazione.
 

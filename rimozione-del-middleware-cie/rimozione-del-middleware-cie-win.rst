@@ -1,15 +1,14 @@
 Windows
 =======
 
-Per rimuovere il software “CIE Software” è necessario utilizzare un
+Per rimuovere il Software CIE è necessario utilizzare un
 account amministratore.
 
-Selezionare il collegamento Disinstalla nel gruppo di programmi CIE
-Software.
+Selezionare il collegamento "Disinstalla" nel menu "CIE Middleware"
 
 |image13|
 
-Figura 13. Voce per la disinstallazione del Software CIE Win
+Figura 13. Voce per la disinstallazione del Software CIE in ambiente Windows
 
 Nel caso sia abilitato il Controllo Account Utente (UAC) varrà
 visualizzata la seguente schermata. Confermare cliccando su “Si”.
@@ -25,6 +24,9 @@ Confermare la rimozione cliccando su “Disinstalla”:
 Figura 15. Disinstallazione del Software CIE Win
 
 Attendere il termine della rimozione.
+
+Al medesimo risultato si può arrivare selezionando "Disinstalla" in corrispondenza
+voce "CIE Middleware" nel pannello di Windows "App e funzionalità".
 
 .. |image13| image:: ../_img/image14.png
    :width: 2.67708in
