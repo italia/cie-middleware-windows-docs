@@ -1,8 +1,7 @@
-|../Documents/Progetti/FSIA6_CIE2014/workspace/Portale%20istituzionale/CIE-LOGO-REGISTRATO.jpg|
+|image0|
 
-+--+
-|  |
-+--+
+
+
 
 SOFTWARE CIE
 
@@ -200,6 +199,10 @@ accompagnamento della CIE. 38 <#_Toc138328571>`__
 
 `Figura 54. Abilitazione della scrittura del log 43 <#_Toc138328580>`__
 
+
+.. |image0| image:: ./_img/image1.jpeg
+   :width: 4.00876in
+   :height: 2.0102in
 
 .. toctree::
   :maxdepth: 3
