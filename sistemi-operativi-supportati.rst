@@ -2,8 +2,7 @@ Sistemi operativi supportati
 ============================
 
 Il Software CIE può essere utilizzato esclusivamente su sistemi
-operativi a 64 bit. È compatibile con sistemi Windows, MacOS e Linux.
-
+operativi a 64 bit. È compatibile con i seguenti sistemi operativi:
 
 .. toctree::
   :maxdepth: 2
