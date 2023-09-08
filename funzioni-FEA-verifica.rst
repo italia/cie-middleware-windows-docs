@@ -13,7 +13,6 @@ Si veda la  `pagina <https://www.cartaidentita.interno.gov.it/pa-e-imprese/firma
 
 .. toctree::
   :maxdepth: 2
-  :caption: FEA e verifica
-
+  
   funzioni-FEA-verifica/FEA.rst
   funzioni-FEA-verifica/verifica.rst
