@@ -7,7 +7,6 @@ operativi a 64 bit. È compatibile con sistemi Windows, MacOS e Linux.
 
 .. toctree::
   :maxdepth: 2
-  :caption: Indice dei contenuti
 
   sistemi-operativi-supportati/sistemi-operativi-supportati-win.rst
   sistemi-operativi-supportati/sistemi-operativi-supportati-mac.rst
