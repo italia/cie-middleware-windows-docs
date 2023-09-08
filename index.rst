@@ -2,7 +2,7 @@
 
 
 SOFTWARE CIE - Manuale utente
-============
+=============================
 
 .. |image0| image:: ./_img/image1.jpeg
    :width: 4.00876in
