@@ -3,22 +3,14 @@
 
 SOFTWARE CIE
 ============
-
 Manuale utente
 --------------
-
-
-
-**SOMMARIO**
-
-
-
 
 .. |image0| image:: ./_img/image1.jpeg
    :width: 4.00876in
    :height: 2.0102in
    :align: middle
- 
+
 .. toctree::
   :maxdepth: 3
   :caption: Indice dei contenuti
