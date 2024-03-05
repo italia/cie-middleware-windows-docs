@@ -27,7 +27,7 @@ una distribuzione “Fedora”).
 
 |image12|
 
-Figura 12. Software CIE su distribuzioni "Red Hat based"
+Figura 13. Software CIE su distribuzioni "Red Hat based"
 
 .. |image12| image:: ../../_img/image13.png
    :width: 6.69306in
