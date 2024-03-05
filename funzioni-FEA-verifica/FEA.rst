@@ -104,7 +104,7 @@ Nel caso in cui si decida di controfirmare un file digitalmente firmato,
 la firma elettronica calcolata con la CIE verrà aggiunta all’elenco di
 firme digitali presenti nel file.
 
-.. |image59| image:: ../_img/image.prova.png
+.. |image59| image:: ../_img/Immagine.prova.png
    :width: 3.14896in
    :height: 2.57222in
 .. |image60| image:: ../_img/image60.png
