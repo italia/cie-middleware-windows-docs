@@ -12,7 +12,7 @@ lettore, digitare il PIN e premere “Abbina”.
 
 |image17|
 
-Figura 17. Abbinamento di una CIE
+Figura 18. Abbinamento di una CIE
 
 Appoggiando la CIE sul lettore di smart card collegato alla postazione,
 digitando il PIN e selezionando il tasto “abbina” si avvia la procedura.
@@ -31,7 +31,7 @@ associata:
 
 |image18|
 
-Figura 18. Schermata Home di CIE ID con indicazione della CIE abbinata
+Figura 19. Schermata Home di CIE ID con indicazione della CIE abbinata
 
 È possibile ripetere l’operazione per altre carte,
 di modo da poter utilizzare una medesima postazione di lavoro con più
