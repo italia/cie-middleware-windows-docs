@@ -7,13 +7,13 @@ delle CIE abbinate da utilizzare, è anche possibile firmare con una CIE non ass
 
 |image59|
 
-Figura 58. Home page della funzionalità di firma elettronica
+Figura 59. Home page della funzionalità di firma elettronica
 
 Selezionare l'opzione preferita per proseguire con la seguente schermata.
 
 |image60|
 
-Figura 59. Selezione del documento e personalizzazione della firma
+Figura 60. Selezione del documento e personalizzazione della firma
 
 Prima di procedere, nel caso in cui sia voglia utilizzare una CIE associata, è consigliabile modificare l’immagine della propria
 firma autografa o prendere visione di quella di default generata
@@ -22,7 +22,7 @@ destra.
 
 |image61|
 
-Figura 60. Modifica dell'immagine della firma autografa
+Figura 61. Modifica dell'immagine della firma autografa
 
 
 L’applicazione mostra l’immagine della firma autografa generata a
@@ -44,7 +44,7 @@ L'utilizzo della propria firma autografa è possibile solo firmando con CIE prec
 
 |image63|
 
-Figura 61. Selezione della tipologia di firma elettronica
+Figura 62. Selezione della tipologia di firma elettronica
 
 Selezionare firma “CADES” se si intende produrre un file digitalmente
 firmato con estensione “.p7m”. Tale modalità di firma è l’unica
@@ -52,7 +52,7 @@ possibile per file in un formato differente dal PDF.
 
 |image64|
 
-Figura 62. Firma CADES.
+Figura 63. Firma CADES.
 
 Selezionare firma “PADES” se si intende produrre un file PDF
 digitalmente firmato.
@@ -63,7 +63,7 @@ di firma.
 
 |image65|
 
-Figura 63. Firma PDF con elemento grafico
+Figura 64. Firma PDF con elemento grafico
 
 Nel caso in cui venga scelto di firmare in modalità PADES con elemento
 grafico, l’applicazione mostra un’anteprima del PDF caricato e chiede di
@@ -71,21 +71,21 @@ posizionare la firma nel posto desiderato.
 
 |image66|
 
-Figura 64. Posizionamento dell'elemento grafico della firma
+Figura 65. Posizionamento dell'elemento grafico della firma
 
 Cliccando su Prosegui viene richiesto di immettere il PIN, in caso di firma con CIE associata verrano richieste le ultime quattro
 cifre del PIN.
 
 |image67|
 
-Figura 65. Immissione delle ultime quattro cifre del PIN per la firma
+Figura 66. Immissione delle ultime quattro cifre del PIN per la firma
 elettronica
 
 in caso di firma con CIE non associata verrà richiesto di inserire le otto cifre del PIN.
 
 |imagePIN8|
 
-Figura 66. Immissione delle otto cifre del PIN per la firma
+Figura 67. Immissione delle otto cifre del PIN per la firma
 elettronica con CIE non associata
 
 Viene quindi chiesto di scegliere dove salvare il file firmato. Viene
@@ -98,7 +98,7 @@ posizione indicata. Al termine verrà fornita la schermata seguente.
 
 |image68|
 
-Figura 67. Fine generazione firma elettronica
+Figura 68. Fine generazione firma elettronica
 
 Nel caso in cui si decida di controfirmare un file digitalmente firmato,
 la firma elettronica calcolata con la CIE verrà aggiunta all’elenco di

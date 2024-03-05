@@ -134,6 +134,6 @@ firme digitali presenti nel file.
 .. |image68| image:: ../_img/image68.png
    :width: 3.15945in
    :height: 2.54792in
-.. |imagePIN8| image:: ../_img/imagePIN8.png
+.. |imagePIN8| image:: ../_img/ImagePIN8.png
    :width: 3.15945in
    :height: 2.54792in
