@@ -26,7 +26,7 @@ Al termine fornirà l’esito dell’operazione in una apposita schermata.
 
 Figura 70. Esito della verifica della firma
 
-Se è stata effettuata la verifica di un file p7m sarà possibbile estrarre il file cliccando su "Estrai"
+Se è stata effettuata la verifica di un file p7m sarà possibile estrarre il file cliccando su "Estrai"
 
 .. |imageverifica1| image:: ../_img/Image.verifica.1.png
    :width: 3.29236in
