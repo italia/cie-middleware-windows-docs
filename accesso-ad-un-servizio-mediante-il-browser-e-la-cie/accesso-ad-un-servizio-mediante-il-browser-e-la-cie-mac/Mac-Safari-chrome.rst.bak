@@ -1,9 +1,8 @@
-Safari e Chrome
-===============
+Safari e Chrome per MAC
+=======================
 
 L’autenticazione tramite CIE su Safari e Chrome non richiede alcuna
-operazione di configurazione aggiuntiva a quanto descritto nei paragrafi
-precedenti.
+operazione di configurazione aggiuntiva oltre all'abbinamento della carta.
 
 Appoggiare la CIE sul lettore smart card e digitare l’indirizzo del
 servizio a cui si vuole accedere nella barra degli indirizzi del
@@ -14,7 +13,7 @@ CIE, riconoscibile dal codice fiscale del titolare, e premere OK.
 
 |image35|
 
-Figura 35. Selezione del certificato
+Figura 35. Selezione del certificato su Safari
 
 Su Chrome la finestra di selezione del certificato è la seguente:
 
@@ -46,7 +45,7 @@ Nel caso in cui venga inserito un PIN errato viene mostrata nuovamente
 la finestra di inserimento PIN.
 
 Se il PIN viene digitato in modo errato per 3 volte consecutive
-quest’ultimo viene bloccato per sicurezza. Per sbloccarlo sarà
+quest’ultimo viene bloccato per motivi di sicurezza. Per sbloccarlo sarà
 necessario lanciare l’app “Sblocca PIN” nella cartella “Applicazioni”.
 
 Consultare il paragrafo §9.3 Sblocco per ulteriori dettagli in merito
