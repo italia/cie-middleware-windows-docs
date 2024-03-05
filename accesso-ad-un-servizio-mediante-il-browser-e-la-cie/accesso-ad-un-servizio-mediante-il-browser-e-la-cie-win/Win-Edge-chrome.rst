@@ -16,21 +16,21 @@ riconoscibile dal codice fiscale del titolare, e premere OK.
 
 |image19|
 
-Figura 19. Accesso ai servizi digitali mediante la CIE, selezione del certificato
+Figura 20. Accesso ai servizi digitali mediante la CIE, selezione del certificato
 
 Su Chrome e Opera la finestra di selezione del certificato è la
 seguente:
 
 |image20|
 
-Figura 20. Accesso ai servizi digitali mediante la CIE, conferma del certificato
+Figura 21. Accesso ai servizi digitali mediante la CIE, conferma del certificato
 
 Confermato il certificato da utilizzare, verrà richiesto di immettere il
 PIN della CIE.
 
 |image21|
 
-Figura 21. Immissione delle ultime quattro cifre del PIN
+Figura 22. Immissione delle ultime quattro cifre del PIN
 
 Digitare **le ultime 4 cifre del PIN**, premere su OK e attendere
 qualche secondo (la finestra di richiesta PIN non scompare
@@ -43,14 +43,14 @@ di inserimento PIN prima del blocco:
 
 |image22|
 
-Figura 22. Nel caso in cui il PIN immesso non sia corretto
+Figura 23. Nel caso in cui il PIN immesso non sia corretto
 
 Se il PIN viene digitato in modo errato per 3 volte consecutive
 quest’ultimo viene bloccato per motivi di sicurezza.
 
 |image23|
 
-Figura 23. CIE bloccata.
+Figura 24. CIE bloccata.
 
 In tal caso, è possibile procedere al suo sblocco utilizzando il PUK e
 cliccando sull’avviso che compare nell’area di notifica in basso a
@@ -58,7 +58,7 @@ destra.
 
 |image24|
 
-Figura 24. Sblocco della CIE
+Figura 25. Sblocco della CIE
 
 Consultare il paragrafo §9.3 Sblocco per ulteriori dettagli in merito
 alla procedura di sblocco PIN.
