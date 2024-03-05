@@ -11,12 +11,10 @@ senza avere alcuna CIE abbinata.
 
 |imageverifica1|
 
+Figura 69. Verifica di un file firmato
+
 Dalla schermata di "Verifica Firma" cliccare su "Seleziona un documento"
 per caricare un documento digitalmente firmato o trascinarlo all’interno dell’apposita area tratteggiata.
-
-|image70|
-
-Figura 69. Verifica di un file firmato
 
 L’applicazione procederà alla verifica del file firmato e del
 certificato del firmatario, dal punto di vista della credibilità e dello

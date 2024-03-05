@@ -11,7 +11,7 @@ senza avere alcuna CIE abbinata.
 
 |imageverifica1|
 
-Figura 69. Verifica di un file firmato
+Figura 68. Verifica di un file firmato
 
 Dalla schermata di "Verifica Firma" cliccare su "Seleziona un documento"
 per caricare un documento digitalmente firmato o trascinarlo all’interno dell’apposita area tratteggiata.
@@ -24,7 +24,7 @@ Al termine fornirà l’esito dell’operazione in una apposita schermata.
 
 |imageverifica2|
 
-Figura 70. Esito della verifica della firma
+Figura 69. Esito della verifica della firma
 
 Se è stata effettuata la verifica di un file p7m sarà possibbile estrarre il file cliccando su "Estrai"
 
