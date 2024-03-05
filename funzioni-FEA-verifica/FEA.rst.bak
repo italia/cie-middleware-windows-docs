@@ -9,13 +9,13 @@ delle CIE abbinate da utilizzare, è anche possibile firmare con una CIE non ass
 
 Figura 58. Home page della funzionalità di firma elettronica
 
-Cliccare sul tasto “Seleziona” per proseguire con la seguente schermata.
+Selezionare l'opzione preferita per proseguire con la seguente schermata.
 
 |image60|
 
 Figura 59. Selezione del documento e personalizzazione della firma
 
-Prima di procedere è consigliabile modificare l’immagine della propria
+Prima di procedere, nel caso in cui sia voglia utilizzare una CIE associata, è consigliabile modificare l’immagine della propria
 firma autografa o prendere visione di quella di default generata
 dall’applicativo. Per fare questo, cliccare su “Personalizza” in basso a
 destra.
@@ -23,6 +23,7 @@ destra.
 |image61|
 
 Figura 60. Modifica dell'immagine della firma autografa
+
 
 L’applicazione mostra l’immagine della firma autografa generata a
 partire dal nome e dal cognome della CIE selezionata per il processo di
@@ -39,16 +40,11 @@ principale (figura 59) caricare un documento mediante il tasto
 “Seleziona un documento” o trascinarlo all’interno dell’apposita area
 tratteggiata.
 
-|image62|
-
-Figura 61. Firma o Verifica di un file firmato
-
-Cliccare su Firma per proseguire con la scelta della tipologia di firma
-elettronica da apporre.
+L'utilizzo della propria firma autografa è possibile solo firmando con CIE precedentemente associate
 
 |image63|
 
-Figura 62. Selezione della tipologia di firma elettronica
+Figura 61. Selezione della tipologia di firma elettronica
 
 Selezionare firma “CADES” se si intende produrre un file digitalmente
 firmato con estensione “.p7m”. Tale modalità di firma è l’unica
@@ -56,17 +52,18 @@ possibile per file in un formato differente dal PDF.
 
 |image64|
 
-Figura 63. Firma CADES.
+Figura 62. Firma CADES.
 
 Selezionare firma “PADES” se si intende produrre un file PDF
-digitalmente firmato ed inserire la spunta sul selettore “Aggiungi firma
-grafica” per inserire all’interno di esso un elemento
+digitalmente firmato.
+In caso di firma con CIE associata è possibile mettere la spunta sul selettore “Aggiungi firma
+grafica” per inserire all’interno di esso un elemento 
 grafico formato dall’immagine della propria firma autografa e dalla data
 di firma.
 
 |image65|
 
-Figura 64. Firma PDF con elemento grafico
+Figura 63. Firma PDF con elemento grafico
 
 Nel caso in cui venga scelto di firmare in modalità PADES con elemento
 grafico, l’applicazione mostra un’anteprima del PDF caricato e chiede di
@@ -74,15 +71,22 @@ posizionare la firma nel posto desiderato.
 
 |image66|
 
-Figura 65. Posizionamento dell'elemento grafico della firma
+Figura 64. Posizionamento dell'elemento grafico della firma
 
-Cliccando su Prosegui viene richiesto di immettere le ultime quattro
+Cliccando su Prosegui viene richiesto di immettere il PIN, in caso di firma con CIE associata verrano richieste le ultime quattro
 cifre del PIN.
 
 |image67|
 
-Figura 66. Immissione delle ultime quattro cifre del PIN per la firma
+Figura 65. Immissione delle ultime quattro cifre del PIN per la firma
 elettronica
+
+in caso di firma con CIE non associata verrà richiesto di inserire le otto cifre del PIN.
+
+|imagePIN8|
+
+Figura 66. Immissione delle otto cifre del PIN per la firma
+elettronica con CIE non associata
 
 Viene quindi chiesto di scegliere dove salvare il file firmato. Viene
 proposto, come nome di default, il medesimo nome del file origine con il
@@ -103,30 +107,33 @@ firme digitali presenti nel file.
 .. |image59| image:: ../_img/image59.png
    :width: 3.14896in
    :height: 2.57222in
-.. |image60| image:: ../_img/image59.png
+.. |image60| image:: ../_img/image60.png
    :width: 3.24028in
    :height: 2.61768in
-.. |image61| image:: ../_img/image60.png
+.. |image61| image:: ../_img/image61.png
    :width: 3.22361in
    :height: 2.61785in
-.. |image62| image:: ../_img/image61.png
+.. |image62| image:: ../_img/image62.png
    :width: 3.26038in
    :height: 2.61319in
-.. |image63| image:: ../_img/image62.png
+.. |image63| image:: ../_img/image63.png
    :width: 3.31916in
    :height: 2.67778in
-.. |image64| image:: ../_img/image63.png
+.. |image64| image:: ../_img/image64.png
    :width: 2.97892in
    :height: 2.43403in
-.. |image65| image:: ../_img/image64.png
+.. |image65| image:: ../_img/image65.png
    :width: 3.26701in
    :height: 2.65903in
-.. |image66| image:: ../_img/image65.png
+.. |image66| image:: ../_img/image66.png
    :width: 3.16233in
    :height: 2.54306in
-.. |image67| image:: ../_img/image66.png
+.. |image67| image:: ../_img/image67.png
    :width: 3.10694in
    :height: 2.49572in
-.. |image68| image:: ../_img/image67.png
+.. |image68| image:: ../_img/image68.png
+   :width: 3.15945in
+   :height: 2.54792in
+.. |imagePIN8| image:: ../_img/imagePIN8.png
    :width: 3.15945in
    :height: 2.54792in
