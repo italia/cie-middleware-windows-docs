@@ -8,20 +8,20 @@ Selezionare il collegamento "Disinstalla" nel menu "CIE Middleware"
 
 |image13|
 
-Figura 13. Voce per la disinstallazione del Software CIE in ambiente Windows
+Figura 14. Voce per la disinstallazione del Software CIE in ambiente Windows
 
 Nel caso sia abilitato il Controllo Account Utente (UAC) varrà
 visualizzata la seguente schermata. Confermare cliccando su “Si”.
 
 |image14|
 
-Figura 14. Disinstallazione del Software CIE Win
+Figura 15. Disinstallazione del Software CIE Win
 
 Confermare la rimozione cliccando su “Disinstalla”:
 
 |image15|
 
-Figura 15. Disinstallazione del Software CIE Win
+Figura 16. Disinstallazione del Software CIE Win
 
 Attendere il termine della rimozione.
 
