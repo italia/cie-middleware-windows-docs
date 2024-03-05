@@ -5,20 +5,20 @@ Avviare Firefox e accedere alla sezione “Preferenze” del browser:
 
 |image49|
 
-Figura 49. Preferenze Firefox
+Figura 50. Preferenze Firefox
 
 Selezionare la scheda “Privacy e Sicurezza” o “Privacy & Security” nel
 caso di utilizzo di una versione di Firefox in inglese.
 
 |image50|
 
-Figura 50. Dispositivi di sicurezza su Firefox
+Figura 51. Dispositivi di sicurezza su Firefox
 
 Cliccare su “Dispositivi di sicurezza” o “Security Devices”.
 
 |image51|
 
-Figura 51. Dispositivi di sicurezza su Firefox
+Figura 52. Dispositivi di sicurezza su Firefox
 
 Cliccare su “Carica” e inserire le seguenti informazioni:
 
@@ -33,7 +33,7 @@ con l’elenco dei lettori di smart card installati sul computer:
 
 |image52|
 
-Figura 52. Dispositivi di sicurezza su Firefox, caricamento del modulo CIE
+Figura 53. Dispositivi di sicurezza su Firefox, caricamento del modulo CIE
 
 Per verificare la corretta installazione tornare alla scheda delle
 preferenze e, lasciando la CIE appoggiata sul lettore, cliccare su
@@ -42,14 +42,14 @@ Digitare le ultime 4 cifre del PIN e premere su OK.
 
 |image53|
 
-Figura 53. Caricamento del Software CIE su Firefox
+Figura 54. Caricamento del Software CIE su Firefox
 
 Nella scheda “Certificati Personali” comparirà il certificato di
 autenticazione dell’utente, riconoscibile dal codice fiscale.
 
 |image54|
 
-Figura 54. Caricamento del Software CIE su Firefox
+Figura 55. Caricamento del Software CIE su Firefox
 
 La configurazione a questo punto è stata eseguita correttamente.
 All’avvio successivo di Firefox non sarà necessario ripetere questa
@@ -65,7 +65,7 @@ le ultime 4 cifre del PIN.
 
 |image55|
 
-Figura 55. Accesso ad un servizio in rete con la CIE, mediante Firefox
+Figura 56. Accesso ad un servizio in rete con la CIE, mediante Firefox
 
 Con alcune versioni di Firefox potrebbe essere poi richiesto di
 selezionare il certificato da utilizzare per l’autenticazione client.
@@ -74,7 +74,7 @@ titolare, e premere OK.
 
 |image56|
 
-Figura 56. Scelta del certificato in fase di autenticazione
+Figura 57. Scelta del certificato in fase di autenticazione
 
 L’applicazione dovrebbe riconoscere correttamente l’utente e consentire
 l’accesso al servizio desiderato.
@@ -84,7 +84,7 @@ la finestra di inserimento PIN.
 
 |image57|
 
-Figura 57. Immissione del PIN
+Figura 58. Immissione del PIN
 
 Se il PIN viene digitato in modo errato per 3 volte consecutive
 quest’ultimo viene bloccato per sicurezza. Per sbloccarlo sarà
