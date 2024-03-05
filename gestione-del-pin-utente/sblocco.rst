@@ -10,7 +10,7 @@ inserire il PUK della CIE, inserire il nuovo PIN e ripeterlo per conferma:
 
 |image78|
 
-Figura 77. Sblocco del PIN con il PUK
+Figura 78. Sblocco del PIN con il PUK
 
 Verranno chieste tutte le 8 cifre di un nuovo PIN. Digitarle e
 e confermare. Il nuovo PIN deve essere digitato 2 volte per evitare che
@@ -23,7 +23,7 @@ finestra di conferma seguente.
 
 |image79|
 
-Figura 78. Sblocco del PIN con il PUK, esito
+Figura 79. Sblocco del PIN con il PUK, esito
 
 Nel caso in cui la seconda digitazione del PIN non corrisponda alla
 prima, l’applicazione si blocca con il medesimo avviso descritto
@@ -36,7 +36,7 @@ rimanenti prima di bloccare il PUK.
 
 |image80|
 
-Figura 79. PUK errato
+Figura 80. PUK errato
 
 **ATTENZIONE: In caso di blocco del PUK dopo 10 tentativi errati di immissione 
 non sarà possibile procedere né al
