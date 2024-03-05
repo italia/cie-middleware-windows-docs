@@ -9,7 +9,7 @@ Utilizzare la funzione “Verifica firma” nel menu di sinistra per
 accedere alla funzionalità. Tale funzionalità è utilizzabile anche
 senza avere alcuna CIE abbinata.
 
-|imageverifca1|
+|imageverifica1|
 
 Dalla schermata di "Verifica Firma" cliccare su "Seleziona un documento"
 per caricare un documento digitalmente firmato o trascinarlo all’interno dell’apposita area tratteggiata.
@@ -24,18 +24,18 @@ stato di revoca del medesimo.
 
 Al termine fornirà l’esito dell’operazione in una apposita schermata.
 
-|image71|
+|imageverifica2|
 
 Figura 70. Esito della verifica della firma
 
 Se è stata effettuata la verifica di un file p7m sarà possibbile estrarre il file cliccando su "Estrai"
 
-.. |image69| image:: ../_img/image59.png
+.. |imageverifica1| image:: ../_img/Image.verifica.1.png
    :width: 3.29236in
    :height: 2.61768in
 .. |image70| image:: ../_img/image61.png
    :width: 3.29163in
    :height: 2.61319in
-.. |image71| image:: ../_img/image68.png
+.. |imageverifica2| image:: ../_img/Image.verifica.2.png
    :width: 3.37771in
    :height: 2.68194in
