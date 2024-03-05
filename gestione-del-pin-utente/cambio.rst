@@ -8,7 +8,7 @@ alla sezione “Cambio PIN” dal menu di sinistra:
 
 |image74|
 
-Figura 73. Accesso alla funzionalità di cambio del PIN
+Figura 74. Accesso alla funzionalità di cambio del PIN
 
 Inserire tutte e 8 le cifre del PIN attuale della CIE e digitare 2 volte
 le 8 cifre del nuovo PIN per evitare che, a causa di errori di
@@ -17,7 +17,7 @@ desiderato; infine confermare cliccando su “Cambia PIN”.
 
 |image75|
 
-Figura 74. Cambio del PIN
+Figura 75. Cambio del PIN
 
 Nel caso in cui la seconda digitazione del PIN non corrisponda alla
 prima, l’applicazione si blocca con un avviso all’utente. Se il PIN
@@ -26,14 +26,15 @@ cambio e viene mostrata la finestra di conferma seguente.
 
 |image76|
 
-Figura 75. I PIN immessi non corrispondono
+Figura 76. I PIN immessi non corrispondono
 
 Se il PIN iniziale non corrisponde a quello digitato verrà visualizzata
 una schermata di errore in cui è specificato il numero di tentativi
 rimanenti prima di bloccare il PIN.
 
-| |image77|
-| 76. Il PIN è errato
+|image77|
+
+Figura 77. Il PIN è errato
 
 In caso di blocco del PIN è necessario procedere allo sblocco tramite il
 PUK. Consultare il paragrafo §9.3 Sblocco per ulteriori dettagli in
