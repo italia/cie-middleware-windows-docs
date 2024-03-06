@@ -6,7 +6,7 @@ offerte:
 
 |image16|
 
-Figura 16. Funzionalità dell'applicazione CieID
+Figura 17. Funzionalità dell'applicazione CieID
 
 Nel dettaglio:
 

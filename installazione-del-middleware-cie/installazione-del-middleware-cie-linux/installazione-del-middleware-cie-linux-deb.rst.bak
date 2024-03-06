@@ -12,7 +12,7 @@ scaricato il pacchetto di installazione:
 *sudo dpkg -i <NOME_FILE>.deb*
 
 Verrà richiesto di inserire la password di root. Inserita la password e
-premuto Invio, partirà la procedura di installazione che copierà i
+premuto "Invio", partirà la procedura di installazione che copierà i
 seguenti files:
 
 1. Cartella “CIEID” nel percorso /usr/share/
@@ -29,6 +29,6 @@ una distribuzione “Ubuntu”).
 
 Figura 11. Software CIE su distribuzioni "Debian based"
 
-.. |image11| image:: ../_img/image12.png
+.. |image11| image:: ../../_img/image12.png
    :width: 6.69306in
    :height: 3.95in

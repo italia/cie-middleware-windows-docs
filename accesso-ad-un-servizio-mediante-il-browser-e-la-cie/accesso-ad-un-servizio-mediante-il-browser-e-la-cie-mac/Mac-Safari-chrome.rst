@@ -13,13 +13,13 @@ CIE, riconoscibile dal codice fiscale del titolare, e premere OK.
 
 |image35|
 
-Figura 35. Selezione del certificato su Safari
+Figura 36. Selezione del certificato su Safari
 
 Su Chrome la finestra di selezione del certificato è la seguente:
 
 |image36|
 
-Figura 36. Conferma del certificato
+Figura 37. Conferma del certificato
 
 Confermato il certificato da utilizzare, verrà richiesto di immettere il
 PIN della CIE.
@@ -28,13 +28,13 @@ Su Safari:
 
 |image37|
 
-Figura 37. Immissione PIN su Safari
+Figura 38. Immissione PIN su Safari
 
 Su Chrome:
 
 |image38|
 
-Figura 38. Immissione PIN su Chrome
+Figura 39. Immissione PIN su Chrome
 
 Digitare le ultime 4 cifre del PIN, premere su OK e attendere qualche
 secondo (la finestra di richiesta PIN non scompare immediatamente).

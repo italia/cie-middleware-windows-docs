@@ -12,13 +12,13 @@ Prima parte del PIN:
 
 |image72|
 
-Figura 71. Prima metà del PIN e del PUK nella ricevuta del Comune
+Figura 72. Prima metà del PIN e del PUK nella ricevuta del Comune
 
 Seconda parte del PIN:
 
 |image73|
 
-Figura 72. Seconda metà del PIN e del PUK nella lettera di
+Figura 73. Seconda metà del PIN e del PUK nella lettera di
 accompagnamento della CIE.
 
 In questo caso il PIN completo è **12345678** e il PUK completo è **87654321**.

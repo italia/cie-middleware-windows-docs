@@ -9,19 +9,19 @@ Accedere alla sezione “Preferenze” del browser:
 
 |image39|
 
-Figura 40. Preferenze Firefox
+Figura 39. Preferenze Firefox
 
 Selezionare la scheda “Privacy e Sicurezza”
 
 |image40|
 
-Figura 41. Preferenze Firefox
+Figura 40. Preferenze Firefox
 
 Cliccare su “Dispositivi di sicurezza”.
 
 |image41|
 
-Figura 42. Dispositivi di sicurezza Firefox
+Figura 41. Dispositivi di sicurezza Firefox
 
 Cliccare su “Carica” e inserire le seguenti informazioni:
 
@@ -31,7 +31,7 @@ Cliccare su “Carica” e inserire le seguenti informazioni:
 
 |image42|
 
-Figura 43. Configurazione Software CIE su Firefox
+Figura 42. Configurazione Software CIE su Firefox
 
 Se è la prima volta che si utilizza la CIE, sarà necessario completare
 preventivamente la procedura di prima registrazione riportata nel
@@ -41,14 +41,14 @@ computer:
 
 |image43|
 
-Figura 44. Dispositivi di sicurezza CIE su Firefox e modulo CIE caricato correttamente.
+Figura 43. Dispositivi di sicurezza CIE su Firefox e modulo CIE caricato correttamente.
 
 Appoggiando la CIE sul lettore questa verrà riconosciuta dal browser e
 verranno visualizzate delle informazioni.
 
 |image44|
 
-Figura 45. Accesso al dispositivo di sicurezza "CIE" su Firefox
+Figura 44. Accesso al dispositivo di sicurezza "CIE" su Firefox
 
 Per verificare la corretta installazione tornare alla scheda “Avanzate”,
 e, lasciando la CIE appoggiata sul lettore, cliccare su “Certificati”.
@@ -57,14 +57,14 @@ premere su OK.
 
 |image45|
 
-Figura 46. Immissione del PIN su Firefox
+Figura 45. Immissione del PIN su Firefox
 
 Nella scheda “Certificati Personali” comparirà il certificato di
 autenticazione dell’utente, riconoscibile dal codice fiscale.
 
 |image46|
 
-Figura 47. Certificato CIE utente su Firefox
+Figura 46. Certificato CIE utente su Firefox
 
 La configurazione a questo punto è stata eseguita correttamente.
 All’avvio successivo di Firefox non sarà necessario ripetere questa
@@ -80,7 +80,7 @@ le ultime 4 cifre del PIN.
 
 |image47|
 
-Figura 48. Accesso ad un servizio, immissione del PIN
+Figura 47. Accesso ad un servizio, immissione del PIN
 
 Verrà poi richiesto di selezionare il certificato da utilizzare per
 l’autenticazione client. Selezionare il certificato CIE, riconoscibile
@@ -88,7 +88,7 @@ dal codice fiscale del titolare, e premere OK.
 
 |image48|
 
-Figura 49. Conferma del certificato
+Figura 48. Conferma del certificato
 
 L’applicazione dovrebbe riconoscere correttamente l’utente e consentire
 l’accesso al servizio desiderato.

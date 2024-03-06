@@ -27,7 +27,7 @@ una distribuzione “Ubuntu”).
 
 |image11|
 
-Figura 11. Software CIE su distribuzioni "Debian based"
+Figura 12. Software CIE su distribuzioni "Debian based"
 
 .. |image11| image:: ../../_img/image12.png
    :width: 6.69306in

@@ -13,19 +13,19 @@ Accedere alla sezione “Opzioni” del browser:
 
 |image25|
 
-Figura 26. Configurazione di Firefox
+Figura 25. Configurazione di Firefox
 
 Selezionare la scheda “Avanzate”, quindi la scheda “Certificati”
 
 |image26|
 
-Figura 27. Configurazione di Firefox
+Figura 26. Configurazione di Firefox
 
 Cliccare su “Dispositivi di sicurezza”.
 
 |image27|
 
-Figura 28. Aggiunta di un nuovo dispositivo di sicurezza su Firefox
+Figura 27. Aggiunta di un nuovo dispositivo di sicurezza su Firefox
 
 Cliccare su “Carica” e inserire le seguenti informazioni:
 
@@ -35,7 +35,7 @@ Cliccare su “Carica” e inserire le seguenti informazioni:
 
 |image28|
 
-Figura 29. Configurazione di un dispositivo di sicurezza su Firefox.
+Figura 28. Configurazione di un dispositivo di sicurezza su Firefox.
 
 Se è la prima volta che si utilizza la CIE, verrà richiesto di
 completare la procedura di prima registrazione riportata nel paragrafo
@@ -45,14 +45,14 @@ computer:
 
 |image29|
 
-Figura 30. Configurazione di un dispositivo di sicurezza su Firefox
+Figura 29. Configurazione di un dispositivo di sicurezza su Firefox
 
 Appoggiando la CIE sul lettore questa verrà riconosciuta dal browser e
 verranno visualizzate delle informazioni.
 
 |image30|
 
-Figura 31. Configurazione di un dispositivo di sicurezza su Firefox e modulo CIE configurato correttamente
+Figura 30. Configurazione di un dispositivo di sicurezza su Firefox e modulo CIE configurato correttamente
 
 Per verificare la corretta installazione tornare alla scheda “Avanzate”,
 e, lasciando la CIE appoggiata sul lettore, cliccare su “Certificati”.
@@ -61,14 +61,14 @@ premere su OK.
 
 |image31|
 
-Figura 32. Accesso al dispositivo di sicurezza CIE configurato su Firefox
+Figura 31. Accesso al dispositivo di sicurezza CIE configurato su Firefox
 
 Nella scheda “Certificati Personali” comparirà il certificato di
 autenticazione dell’utente, riconoscibile dal codice fiscale.
 
 |image32|
 
-Figura 33. Accesso al dispositivo di sicurezza configurato su Firefox
+Figura 32. Accesso al dispositivo di sicurezza configurato su Firefox
 
 La configurazione a questo punto è stata eseguita correttamente.
 All’avvio successivo di Firefox non sarà necessario ripetere questa
@@ -84,7 +84,7 @@ le ultime 4 cifre del PIN.
 
 |image33|
 
-Figura 34. Accesso ad un servizio in rete con la CIE da Firefox
+Figura 33. Accesso ad un servizio in rete con la CIE da Firefox
 
 Verrà poi richiesto quale certificato utilizzare per l’autenticazione
 client. Selezionare il certificato CIE, riconoscibile dal codice fiscale
@@ -92,7 +92,7 @@ del titolare, e premere OK.
 
 |image34|
 
-Figura 35. Accesso ad un servizio in rete da Firefox, selezione del
+Figura 34. Accesso ad un servizio in rete da Firefox, selezione del
 certificato
 
 L’applicazione dovrebbe riconoscere correttamente l’utente e consentire
