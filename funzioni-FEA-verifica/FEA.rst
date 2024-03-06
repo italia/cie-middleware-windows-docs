@@ -3,7 +3,8 @@ Calcolo della FEA
 
 Per firmare digitalmente un documento con la CIE occorre richiamare la funzione “Firma
 Elettronica” nel menu di sinistra e procedere alla selezione di una
-delle CIE abbinate da utilizzare, è anche possibile firmare con una CIE non associata.
+delle CIE abbinate da utilizzare. La funzionalità è utilizzabile anche senza aver preventivamente abbinato una CIE, caso nel quale sarà
+necessario immettere tutte e 8 le cifre del PIN per intero.
 
 |image59|
 
@@ -56,6 +57,7 @@ Figura 63. Firma CADES.
 
 Selezionare firma “PADES” se si intende produrre un file PDF
 digitalmente firmato.
+
 In caso di firma con CIE associata è possibile mettere la spunta sul selettore “Aggiungi firma
 grafica” per inserire all’interno di esso un elemento 
 grafico formato dall’immagine della propria firma autografa e dalla data
@@ -79,9 +81,9 @@ cifre del PIN.
 |image67|
 
 Figura 66. Immissione delle ultime quattro cifre del PIN per la firma
-elettronica
+elettronica.
 
-in caso di firma con CIE non associata verrà richiesto di inserire le otto cifre del PIN.
+Nel caso in cui si intenda procedere con la firma, senza utilizzare alcuna CIE associata, verrà richiesto di inserire le otto cifre del PIN.
 
 |imagePIN8|
 

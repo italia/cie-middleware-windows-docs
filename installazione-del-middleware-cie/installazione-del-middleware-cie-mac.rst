@@ -4,15 +4,14 @@ MacOS
 Per installare il Software CIE è necessario disporre di un account con
 privilegi di amministratore. 
 
-E' possibile installare il Software CIE tramite Apple Store, collegarsi allo Store ed effettuare la ricerca per CIE.
+Dalla versione 1.4.3.5 è possibile installare il Software CIE collegandosi ad Apple Store ed effettuando la ricerca per "Software CIE".
 
 |imageAPPStore|
 
 Figura 5. Installazione del Software CIE su sistema MacOS
 
-Alternativamente è possibile effettuare il download del Software dal
-Portale CIE, avendo cura di scegliere il pacchetto di installazione per
-MacOS.
+Nel caso in cui si desideri installare versioni precedenti, è possibile effettuare il download del Software dal `repository GitHub <https://github.com/italia/cie-middleware-macos>`_ di riferimento, avendo cura di scegliere 
+accuratamente la versione di proprio interesse.
 
 Terminato il download del pacchetto, effettuare un doppio click sul file
 “CIE-software-<VERSIONE>.pkg” scaricato.
