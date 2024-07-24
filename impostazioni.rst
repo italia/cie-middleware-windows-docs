@@ -6,3 +6,4 @@ Impostazioni
   
   impostazioni/impostazioni-proxy.rst
   impostazioni/impostazioni-log.rst
+  impostazioni/impostazioni-preferenze.rst
