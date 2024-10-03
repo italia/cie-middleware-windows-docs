@@ -13,9 +13,12 @@ I files di log sono scritti nei seguenti percorsi:
 -  **Windows:**
    c:\%PROGRAMDATA%\CIEPKI.
 
--  **MacOs & Linux:**
-   ./Library/Containers/it.ipzs.CIE-ID.CIEIDToken/Data/.CIEPKI.
-   
+-  **MacOs:**
+   ~/Library/Group Containers/group.it.ipzs.SoftwareCIE/Library/Caches/CIEPKI/
+  
+-  **Linux:**
+   $HOME/.CIEPKI/
+  
 Per evitare che i file di log crescano eccessivamente si può cliccare sul tasto "Elimina cache di log"
 
 
