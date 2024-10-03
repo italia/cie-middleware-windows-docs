@@ -27,8 +27,7 @@ Cliccare su “Carica” e inserire le seguenti informazioni:
 
 -  Nome modulo: software CIE
 
--  Nome file modulo: /Library/ipzs/libcie-pkcs11.dylib
-
+-  Nome file modulo: /Applications/CIE ID.app/Contents/Resources/libcie-pkcs11.dylib
 |image42|
 
 Figura 43. Configurazione Software CIE su Firefox
