@@ -1,6 +1,4 @@
 MacOS
 =====
 
-Per rimuovere il software “CIE software” è necessario eliminare le app
-“CIE ID” e “CIE ID BAR”, dalla cartella “Applicazioni” e il file
-“/Library/ipzs/libcie-pkcs11.dylib”.
+Per rimuovere il software “CIE ID” è necessario eliminare la app “CIE ID” dalla cartella “Applicazioni”
